@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
+
+"""
+stardict.db 下载地址。
+链接: https://pan.baidu.com/s/15MTRjf3Kzxgmpz6MdOp4mQ
+提取码: hr8q
+"""
+
 from __future__ import print_function
 import sys
 import time
